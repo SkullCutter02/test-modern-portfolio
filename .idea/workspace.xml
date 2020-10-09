@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2516da6a-50ff-4f87-9f2e-66929280eae9" name="Default Changelist" comment="" />
+    <list default="true" id="2516da6a-50ff-4f87-9f2e-66929280eae9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/html/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/html/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/html/work.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_config.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,19 +41,29 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="SCSS File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1icIrk5ry32EZDq8boGaj44CBOK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -35,6 +72,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist/img" />
       <recent name="$PROJECT_DIR$/dist/html" />
       <recent name="$PROJECT_DIR$/dist/css" />
     </key>
@@ -48,12 +86,27 @@
       <option name="presentableId" value="Default" />
       <updated>1602200655284</updated>
       <workItem from="1602200657382" duration="1361000" />
-      <workItem from="1602202234418" duration="2095000" />
+      <workItem from="1602202234418" duration="2335000" />
+      <workItem from="1602246146164" duration="3700000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="573" y="295" key="#File_Watchers" timestamp="1602201187027">
@@ -72,9 +125,9 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="591" y="236" key="EnvironmentVariablesDialog/0.23.1440.813@0.23.1440.813" timestamp="1602205779138" />
-    <state x="209" y="48" key="SettingsEditor" timestamp="1602216530440">
+    <state x="209" y="48" key="SettingsEditor" timestamp="1602222640339">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="209" y="48" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1602216530440" />
+    <state x="209" y="48" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1602222640339" />
   </component>
 </project>
