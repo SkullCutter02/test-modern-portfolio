@@ -16,17 +16,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2516da6a-50ff-4f87-9f2e-66929280eae9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/html/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/html/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/html/work.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/img/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_config.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_menu.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +82,7 @@
       <updated>1602200655284</updated>
       <workItem from="1602200657382" duration="1361000" />
       <workItem from="1602202234418" duration="2335000" />
-      <workItem from="1602246146164" duration="3700000" />
+      <workItem from="1602246146164" duration="5562000" />
     </task>
     <servers />
   </component>
@@ -125,9 +120,9 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="591" y="236" key="EnvironmentVariablesDialog/0.23.1440.813@0.23.1440.813" timestamp="1602205779138" />
-    <state x="209" y="48" key="SettingsEditor" timestamp="1602222640339">
+    <state x="209" y="48" key="SettingsEditor" timestamp="1602257352979">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
-    <state x="209" y="48" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1602222640339" />
+    <state x="209" y="48" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1602257352979" />
   </component>
 </project>
